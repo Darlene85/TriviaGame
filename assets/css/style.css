@@ -1,3 +1,24 @@
 body{
-    background-image: url("https://www.mountainphotography.com/images/xl/20170528-Cosmic-Kiva.jpg")
+    background-image: url("https://www.mountainphotography.com/images/xl/20170528-Cosmic-Kiva.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:800px;
+
+}
+
+h1{
+font-family: 'Acme', sans-serif;
+color: white;
+font-size: 70px;
+text-align: center;
+padding: 300px;
+}
+
+.btn{
+    padding: 5px;
+    margin: 15px
+}
+
+#submit{
+    visibility: hidden;
 }

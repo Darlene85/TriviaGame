@@ -1,6 +1,10 @@
-$("#enter").on("click", function () {
-    console.log("working")
-//     setTimeout(function () {
+
+   
+     
+
+
+// $("#submit").on("click", function () {
+//         setTimeout(function () {
 //         location.reload;
 //     }, 2000);
 
@@ -42,11 +46,11 @@ $("#enter").on("click", function () {
 
 
 //     var messages=["You're knowledgeable.","Continue to research.","Learning is the first step."];
-    
+
 //     if (score === 2){
 //         $("#message").text(messages[2]);
 //     }
-    
+
 //     else if (score === 4){
 //         $("#messages").text(messages[1])
 //     }
@@ -55,9 +59,12 @@ $("#enter").on("click", function () {
 //         $("#messages").text(messages[0])
 //     }
 
-//     //var images=[];
-    
-//     //var imageChoice=
-//      })
-    
-     
+//     var images=["wisdom.jpg", "research.jpg", "learning.jpg"];
+
+//     // var imageChoice=
+
+//     if(score === 2){
+//         $("#messages")
+//     }
+// })
+

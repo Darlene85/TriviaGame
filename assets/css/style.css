@@ -1,22 +1,31 @@
 body{
-    background-image: url("https://www.mountainphotography.com/images/xl/20170528-Cosmic-Kiva.jpg");
+     background-image: url("https://www.mountainphotography.com/images/xl/20091027-Kiva-Night.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height:800px;
+    padding: 387px; 
+}
 
+.card{
+    background-color: black;
+    border-width: 3px;
+    border-color: white;
 }
 
 h1{
-font-family: 'Acme', sans-serif;
+font-family: 'Open Sans', sans-serif;
 color: white;
-font-size: 70px;
+font-size: 40px;
 text-align: center;
-padding: 300px;
+}
+
+h2{
+    text-align: center;  
 }
 
 .btn{
-    padding: 5px;
-    margin: 15px
+
+    font-family: 'Open Sans', sans-serif;
+    align-items: center;
 }
 
 #submit{
